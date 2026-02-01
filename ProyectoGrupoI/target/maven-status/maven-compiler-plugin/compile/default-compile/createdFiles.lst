@@ -1,0 +1,16 @@
+com\mycompany\grupoi\proyectogrupoi\repository\UserRepository$1.class
+com\mycompany\grupoi\proyectogrupoi\model\User.class
+com\mycompany\grupoi\proyectogrupoi\repository\JsonStore.class
+com\mycompany\grupoi\proyectogrupoi\repository\JsonStore$1.class
+com\mycompany\grupoi\proyectogrupoi\ProyectoGrupoI.class
+com\mycompany\grupoi\proyectogrupoi\repository\TaskRepository.class
+com\mycompany\grupoi\proyectogrupoi\repository\TaskRepository$1.class
+com\mycompany\grupoi\proyectogrupoi\util\ValidationUtil.class
+com\mycompany\grupoi\proyectogrupoi\util\PasswordUtil.class
+com\mycompany\grupoi\proyectogrupoi\model\Task.class
+com\mycompany\grupoi\proyectogrupoi\service\TaskService.class
+com\mycompany\grupoi\proyectogrupoi\ui\Menu.class
+com\mycompany\grupoi\proyectogrupoi\model\Priority.class
+com\mycompany\grupoi\proyectogrupoi\repository\UserRepository.class
+com\mycompany\grupoi\proyectogrupoi\service\AuthService.class
+com\mycompany\grupoi\proyectogrupoi\repository\JsonStore$2.class

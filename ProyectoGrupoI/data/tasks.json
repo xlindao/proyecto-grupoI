@@ -1,0 +1,11 @@
+[
+  {
+    "id": "a9560ba5-02d3-48ec-af42-7ed97fbd633e",
+    "userId": "335c8605-fbf8-4ad4-b56f-8803085816dd",
+    "title": "Proyecto de aprendizaje",
+    "description": "Proyecto destinado al aparendizaje de los estudiantes",
+    "priority": "MEDIA",
+    "dueDate": "2027-06-05",
+    "completed": true
+  }
+]
